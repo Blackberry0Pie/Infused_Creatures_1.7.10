@@ -1,0 +1,95 @@
+#
+# Entities
+entity.infusedcreatures.chickenzombie.name=Undead Chicken
+entity.infusedcreatures.cowzombie.name=Undead Cow
+entity.infusedcreatures.clam.name=Clam
+entity.infusedcreatures.clamender.name=Ender Clam
+entity.infusedcreatures.spiderhouse.name=House Spider
+#entity.infusedcreatures.sheeptaintacled.name=Taintacled Sheep
+#entity.infusedcreatures.pigtormented.name=Tormented Pig #merges nodes
+#
+# Blocks
+tile.blockCreeperJar.name=Creeper Jar
+tile.blockCrystalEssence.name=Essence Block
+#
+# Items
+item.infusedcreatures_pearl.name=Pearl
+item.infusedcreatures_pearlforceps.name=Pearl Forceps
+item.infusedcreatures_clamshell.name=Clam Shell
+item.infusedcreatures_squinkwell.name=Squink Well
+item.infusedcreatures_soulstone.0.name=Inert Soulstone
+item.infusedcreatures_soulstone.1.name=Incomplete Soulstone
+item.infusedcreatures_soulstone.2.name=Charged Soulstone : Chicken
+item.infusedcreatures_soulstone.3.name=Charged Soulstone : Cow
+item.infusedcreatures_soulstone.4.name=Charged Soulstone : Spider
+item.infusedcreatures_soulstone.5.name=Charged Soulstone : Clam
+item.infusedcreatures_soulstone.6.name=Charged Soulstone : Creeper
+item.infusedcreatures_soulstone.7.name=Charged Soulstone : Squid
+item.infusedcreatures_crystalessence.name=Essence Block
+item.infusedcreatures_creeperinhibitor.name=Creeper Inhibitor
+item.infusedcreatures_rod_darkwood.name=Darkwood Rod
+#item.infusedcreatures_lightbeamfocus.name=Light Focus
+#
+# Tooltips
+tooltip.infusedcreatures.nullsoul.desc=Currently not tuned.
+tooltip.infusedcreatures.Chicken.desc=Contains a fowl soul indeed.
+tooltip.infusedcreatures.Cow.desc=You hear a faint mooing sound.
+tooltip.infusedcreatures.Spider.desc=A small web is visible in the stone.
+tooltip.infusedcreatures.infusedcreatures.clam.desc=A soul is clammed up inside.
+tooltip.infusedcreatures.Creeper.desc=It looks like it might explode!
+tooltip.infusedcreatures.Squid.desc=Oh dear! Tentacles!
+#
+# Other
+itemGroup.infusedcreatures=Infused Creatures
+#
+#===========RESEARCH CATEGORY============
+
+tc.research_category.INFUSEDCREATURES=Infused Creatures
+
+#===========THAUMONOMOCON TEXT===========
+
+tc.research_name.SANDDUPE=Alchemical Duplication
+tc.research_text.SANDDUPE=Addendum : Sand
+tc.research_page.SANDDUPE.1=You have mastered the basics of alchemy and alchemical duplication and are now ready to try creating more complex substances from scratch.<BR>Sand, while not hard to acquire, is a staple resource, and you really weren't using all that terra and perditio essentia anyways.
+#
+tc.research_name.ESSENCEBLOCK=Crystallized Essentia
+tc.research_text.ESSENCEBLOCK=Now available in cubic form
+tc.research_page.ESSENCEBLOCK.1=Sometimes you just want to keep all of the essentia, and liquids aren't dense enough for mass storage. You know how to store essentia in crystallized form, but these fragments are still quite space consuming with their rough edges. With a bit of ordo vis, these fragments can be fused into a much cleaner and space efficient block form.
+#
+tc.research_name.SOULSTONE=Soul Stones
+tc.research_text.SOULSTONE=Soul Magicks
+tc.research_page.SOULSTONE.1=Soul Stones are an ethically questionable form of magic for storing the souls of butchered creatures.<IMG>infusedcreatures:textures/misc/splatter.png:0:255:255:255:.5</IMG>
+#
+tc.research_name.ZOMBIECOW=Undead Cow
+tc.research_text.ZOMBIECOW=Only produces non-potable milk.
+tc.research_page.ZOMBIECOW.1=By infusing a cow-charged Soul Stone with Examinis, you are able to produce a cow that hungers for flesh and is able to be skinned alive. Skinning it still damages it; feeding it restores its health.
+#
+tc.research_name.ZOMBIECHICKEN=Undead Chicken
+tc.research_text.ZOMBIECHICKEN=Definitely a fowl idea.
+tc.research_page.ZOMBIECHICKEN.1=By infusing a chicken-charged Soul Stone with Examinis, you are able to produce a chicken that hungers for flesh and is able to be plucked alive. Skinning it still damages it; feeding it restores its health.
+#
+tc.research_name.HOUSESPIDER=House Spider
+tc.research_text.HOUSESPIDER=A sticky situation.
+tc.research_page.HOUSESPIDER.1=By infusing a spider-charged Soul Stone with Humanus, you are able to produce a domestic spider that contents itself by spinning webs in corners, and generally not trying to eat your face off at night.
+#
+tc.research_name.ENDERCLAM=Ender Clam
+tc.research_text.ENDERCLAM=Now you're thinking with pearls.
+tc.research_page.ENDERCLAM.1=By infusing a clam-charged Soul Stone with Alienis, you are able to produce a clam that makes ender pearls instead of normal pearls.<BR>Clams are mainly found near the shores of beaches. Clams are breedable by feeding them raw fish.
+tc.research_page.ENDERCLAM.2=Clams are affected by looting enchantments, but if you don't fancy breeding and killing, then using forceps is a way to harvest pearls while keeping your clams unharmed.
+#
+tc.research_name.CREEPERJAR=Creeper Jar
+tc.research_text.CREEPERJAR=Bigger esssssssentia sssssstorage.
+tc.research_page.CREEPERJAR.1=You weren't insane after all(you hope)! Creepers are mostly empty space, and their flesh is designed to to withstand volatile materials. With slight modification, they are perfect for storing essentia.<BR>Unfortunately you have not completely removed their ability to explode, only made them unable to set themselves off. Destroying a jar will permanently destroy it, and its surroundings. The more full the jar is the larger the resulting explosion.<BR>Maybe a solution will present itself later...
+#
+tc.research_name.CREEPERINHIBITOR=Creeper Inhibitor
+tc.research_text.CREEPERINHIBITOR=Explosions weren't so fun after all.
+tc.research_page.CREEPERINHIBITOR.1=Adding a magical device that synchronizes and deactivates creeper nervous pathways completely solves the explosion issue.
+#
+tc.research_name.SQUINKWELL=Squink Well
+tc.research_text.SQUINKWELL=Now with 50% more ink per ink.
+tc.research_page.SQUINKWELL.1=Research is tedious enough without having to stop and refill your scribing tools every so often. To rectify this problem, you have modified a squid into a biological inkwell.
+#
+tc.research_name.ROD_DARKWOOD=blank name
+tc.research_text.ROD_DARKWOOD=blank text
+tc.research_page.ROD_DARKWOOD.1=blank page
+#
